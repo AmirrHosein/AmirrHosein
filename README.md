@@ -1,8 +1,10 @@
 <h1 align="center">Hello Universe</h1>
 
 
-## I'm a Computer Engineering Student
-
+## I'm a Software Engineering Student
+<p> 
+I have a keen interest in coding and a willingness to learn and contribute to the community.
+</p>
 
 -  I’m currently working on web development technologies like React, NextJS etc.
 -  I’m currently learning everything about Frontend and Backend technologies.
