@@ -1,12 +1,6 @@
 <h1 align="center">Hello Universe</h1>
 
-
-<div>
-  <h2>I'm a Software Engineering Student</h2>
-<p> 
-I have a keen interest in coding and a willingness to learn and contribute to the community.
-</p>
-</div>
+##I'm a Software Engineering Student
 
 -  I’m currently working on web development technologies like React, NextJS etc.
 -  I’m currently learning everything about Frontend and Backend technologies.
